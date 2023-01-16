@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyHallv2", "MontyHallv2\MontyHallv2.csproj", "{97048D3C-7C48-4D82-8E1A-BC2D8C04EDBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyHallTests", "MontyHallTests\MontyHallTests.csproj", "{7FEA9DD0-6870-441F-9965-9A7EC6A5BA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97048D3C-7C48-4D82-8E1A-BC2D8C04EDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97048D3C-7C48-4D82-8E1A-BC2D8C04EDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97048D3C-7C48-4D82-8E1A-BC2D8C04EDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97048D3C-7C48-4D82-8E1A-BC2D8C04EDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEA9DD0-6870-441F-9965-9A7EC6A5BA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEA9DD0-6870-441F-9965-9A7EC6A5BA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEA9DD0-6870-441F-9965-9A7EC6A5BA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEA9DD0-6870-441F-9965-9A7EC6A5BA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
