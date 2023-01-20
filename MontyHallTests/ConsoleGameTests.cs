@@ -20,7 +20,7 @@ public class ConsoleGameTests
             .Select(_ => new Door())
             .ToList();
         
-        _doors[CarDoor].InjectCarToDoor();
+        _doors[PrizeDoor].InjectCarToDoor();
     }
 
     [Fact]
