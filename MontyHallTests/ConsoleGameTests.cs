@@ -16,7 +16,6 @@ public class ConsoleGameTests
 
     public ConsoleGameTests()
     {
-        //Assert
         _doors = Enumerable.Range(1, 3)
             .Select(_ => new Door())
             .ToList();
